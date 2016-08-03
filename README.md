@@ -15,3 +15,5 @@ Linked list as a Parallel program with one mutex for the entire linked list
 File   :  pthreadRW.c
 Compile:  gcc -g -Wall -o pthreadRW pthreadRW.c -pthread
 Run    :  ./pthreadRW <threadCount> <n> <m> <mMember> <mInsert> <mDelete>
+
+Results and conclusion : https://samadhipoornima.wordpress.com/category/projects/serial-pthreadrw-pthreadmutex/
